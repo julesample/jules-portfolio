@@ -3,7 +3,7 @@
 import { Download, ExternalLink, Mail, Github, Linkedin } from "lucide-vue-next"
 
 import connectedBlog from './assets/connected-blog.png'
-import connectedDemo from './assets/connected_Demo.png'
+import connectedDemo from './assets/connected_demo.png'
 import qr from './assets/qr.png'
 import clientIndex from './assets/client-index.jpg'
 import construction from './assets/construction.png'
