@@ -49,8 +49,7 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
               <h3 className="text-xl font-bold mb-4 text-blue-400">DESCRIPTION:</h3>
               <p className="mb-4 leading-relaxed">
                 Aspiring full-stack developer passionate about building modern web applications. Currently learning and
-                building projects with JavaScript, TypeScript, and modern frameworks. I believe in writing clean,
-                maintainable code and continuous learning.
+                building projects with JavaScript, TypeScript, and modern frameworks.
               </p>
               <p className="mb-4 leading-relaxed">
                 Focused on frontend and backend development with experience in React, Next.js, Vue.js, and database
@@ -62,8 +61,9 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
               <pre className="text-sm leading-relaxed">
 {
   "languages": [
+    "HTML", "CSS",
     "JavaScript", "TypeScript", 
-    "PHP", "SQL", "HTML", "CSS"
+    "PHP", "SQL"
   ],
   "frameworks": [
     "Next.js", "React", "Vue.js",
@@ -126,7 +126,7 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                   rel="noopener noreferrer"
                   className="border-2 border-blue-400 bg-blue-400 text-black px-4 py-2 hover:bg-black hover:text-blue-400 flex items-center gap-2 justify-center transition-colors"
                 >
-                  <Download :size=12 />
+                  <Download :size=13 />
                   DOWNLOAD_RESUME.PDF
                 </a>
               </div>
@@ -163,14 +163,14 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                     href="https://github.com/julesample/connected-blog"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center justify-center gap-2"
                   >
-                  <Github :size=12 />
+                  <Github :size=13 />
                   Code
                 </a>
                 <a
                   href="https://connected-blog.vercel.app/"
                   className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center justify-center gap-2"
                 >
-                 <Github :size=12 />
+                 <ExternalLink :size=13 />
                   Demo
                 </a>
               </div>
@@ -199,14 +199,14 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                     href="https://github.com/julesample/connected-app"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center justify-center gap-2"
                   >
-                  <Github :size=12 />
+                  <Github :size=13 />
                   Code
                 </a>
                 <a
                   href="https://cnnctd.vercel.app/"
                   className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center justify-center gap-2"
                 >
-                  <ExternalLink :size=12 />
+                  <ExternalLink :size=13 />
                   Demo
                 </a>
               </div>
@@ -235,7 +235,7 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                     href="https://qrgnrtr.netlify.app/"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center gap-2"
                   >
-                    <ExternalLink :size=12 />
+                    <ExternalLink :size=13 />
                     Demo
                   </a>
                 </div>
@@ -265,7 +265,7 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                     href="http://www.ssucateringservice2025.infinityfreeapp.com/"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center gap-2"
                   >
-                  <ExternalLink :size=12 />
+                  <ExternalLink :size=13 />
                   Demo
                 </a>
               </div>
@@ -295,7 +295,7 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                     href="https://lozada-construction.vercel.app/"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center gap-2"
                   >
-                  <ExternalLink :size=12 />
+                  <ExternalLink :size=13 />
                   Demo
                 </a>
               </div>
@@ -324,7 +324,7 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                     href="https://ballers-attendance.vercel.app/"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center gap-2"
                   >
-                  <ExternalLink :size=12 />
+                  <ExternalLink :size=13 />
                   Demo
                 </a>
               </div>
@@ -394,7 +394,7 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
 
 
       <footer className="border-t-4 border-blue-400 p-6 text-center">
-        <p className="text-blue-400">© 2025 Jules | ASPIRING DEVELOPER | BUILDING FOR FUN</p>
+        <p className="text-blue-400">© 2025 Jules | ASPIRING DEVELOPER </p>
       </footer>
     </div>
 </template>
