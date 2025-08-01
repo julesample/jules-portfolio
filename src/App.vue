@@ -126,7 +126,7 @@ Willing to learn and adapt to new technologies and frameworks as needed.
             
                 <div className="mt-8">
                 <a
-                  href="https://drive.google.com/file/d/13lgni36lnQCKkxsSIKtlmvL2scHoz_8o/view"
+                  href="https://drive.google.com/file/d/1vLTssXHHgKCbD9bVX0YtABIMS8QMrWUr/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="border-2 border-blue-400 bg-blue-400 text-black px-4 py-2 hover:bg-black hover:text-blue-400 flex items-center gap-2 justify-center transition-colors"
