@@ -167,6 +167,8 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                   Code
                 </a>
                 <a
+                  rel="noopener noreferrer"
+                  target="_blank"
                   href="https://connected-blog.vercel.app/"
                   className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center justify-center gap-2"
                 >
@@ -196,6 +198,7 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                 </div>
                 <div className="flex gap-4">
                   <a
+                    
                     href="https://github.com/julesample/connected-app"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center justify-center gap-2"
                   >
@@ -203,6 +206,8 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                   Code
                 </a>
                 <a
+                  rel="noopener noreferrer"
+                  target="_blank"
                   href="https://cnnctd.vercel.app/"
                   className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center justify-center gap-2"
                 >
@@ -232,6 +237,8 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                 </div>
                 <div className="flex gap-4">
                   <a
+                    rel="noopener noreferrer"
+                    target="_blank"
                     href="https://qrgnrtr.netlify.app/"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center gap-2"
                   >
@@ -262,6 +269,8 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                 </div>
                 <div className="flex gap-4">
                   <a
+                    rel="noopener noreferrer"
+                    target="_blank"
                     href="http://www.ssucateringservice2025.infinityfreeapp.com/"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center gap-2"
                   >
@@ -292,6 +301,8 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                 </div>
                 <div className="flex gap-4">
                   <a
+                    rel="noopener noreferrer"
+                    target="_blank"
                     href="https://lozada-construction.vercel.app/"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center gap-2"
                   >
@@ -321,8 +332,11 @@ import pagsanghanBallers from './assets/pagsanghan_ballers.png'
                 </div>
                 <div className="flex gap-4">
                   <a
+                    rel="noopener noreferrer"
+                    target="_blank"
                     href="https://ballers-attendance.vercel.app/"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center gap-2"
+                    
                   >
                   <ExternalLink :size=13 />
                   Demo
