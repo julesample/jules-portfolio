@@ -234,7 +234,7 @@ Willing to learn and adapt to new technologies and frameworks as needed.
                   className="w-full h-48 object-cover border-2 border-white mb-4"
                 />
                 <p className="mb-4">
-                  This system sole purpose is to make QR code and cusmomize them based on client needs.
+                  This system sole purpose is to make QR code and customize them based on client needs.
                 </p>
                 <div className="mb-4">
                   <span className="text-blue-400 font-bold">STACK:</span>
