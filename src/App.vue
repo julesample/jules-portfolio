@@ -156,7 +156,7 @@ Willing to learn and adapt to new technologies and frameworks as needed.
                   className="w-full h-48 object-cover border-2 border-white mb-4"
                 />
                 <p className="mb-4">
-                  An AI powered content generation blog app where you can share, comment, search and like blog post in
+                  An AI powered content generation with tinyMCE text editor for better posting. A blog app where you can share, comment, search and like blog post in
                   your interest.
                 </p>
                 <div className="mb-4">
@@ -174,7 +174,7 @@ Willing to learn and adapt to new technologies and frameworks as needed.
                 <a
                   rel="noopener noreferrer"
                   target="_blank"
-                  href="https://connected-blog.vercel.app/"
+                  href="https://connected-blog.vercel.app"
                   className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center justify-center gap-2"
                 >
                  <ExternalLink :size=15 />
@@ -195,11 +195,13 @@ Willing to learn and adapt to new technologies and frameworks as needed.
                   className="w-full h-48 object-cover border-2 border-white mb-4"
                 />
                 <p className="mb-4">
-                  Basically this system is a social media app where you can share, comment, like, chat.
+              This system is a social media app where users can share posts, comment, like, and chat in real-time.
+It’s a hobby project created to express thoughts and connect with others.
+Key features include real-time chat, post editing, account blocking, image posting, and activity tracking.
                 </p>
                 <div className="mb-4">
                   <span className="text-blue-400 font-bold">STACK:</span>
-                  <code className="ml-2"> Nextjs, Supabase. </code>
+                  <code className="ml-2"> Nextjs and Supabase. </code>
                 </div>
                 <div className="flex gap-4">
                   <a
@@ -213,7 +215,7 @@ Willing to learn and adapt to new technologies and frameworks as needed.
                 <a
                   rel="noopener noreferrer"
                   target="_blank"
-                  href="https://cnnctd.vercel.app/"
+                  href="https://cnnctd.vercel.app"
                   className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center justify-center gap-2"
                 >
                   <ExternalLink :size=15 />
@@ -244,7 +246,7 @@ Willing to learn and adapt to new technologies and frameworks as needed.
                   <a
                     rel="noopener noreferrer"
                     target="_blank"
-                    href="https://qrgnrtr.netlify.app/"
+                    href="https://qrgnrtr.netlify.app"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center gap-2"
                   >
                     <ExternalLink :size=15 />
@@ -276,7 +278,7 @@ Willing to learn and adapt to new technologies and frameworks as needed.
                   <a
                     rel="noopener noreferrer"
                     target="_blank"
-                    href="http://www.ssucateringservice2025.infinityfreeapp.com/"
+                    href="http://www.ssucateringservice2025.infinityfreeapp.com"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center gap-2"
                   >
                   <ExternalLink :size=15 />
@@ -297,7 +299,9 @@ Willing to learn and adapt to new technologies and frameworks as needed.
                   className="w-full h-48 object-cover border-2 border-white mb-4"
                 />
                 <p className="mb-4">
-                The overview of this system is to inform the customers about our updated prices and calculate their desired order.
+          The purpose of this system is to inform customers about updated prices and calculate their desired orders. 
+          Prices are dynamic based on location, and the system generates a receipt for better overview.
+                       
                 </p>
                 <div className="mb-4">
                   <span className="text-blue-400 font-bold">STACK:</span>
@@ -308,7 +312,7 @@ Willing to learn and adapt to new technologies and frameworks as needed.
                   <a
                     rel="noopener noreferrer"
                     target="_blank"
-                    href="https://lozada-construction.vercel.app/"
+                    href="https://lozada-construction.vercel.app"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center gap-2"
                   >
                   <ExternalLink :size=15 />
@@ -329,7 +333,7 @@ Willing to learn and adapt to new technologies and frameworks as needed.
                   className="w-full h-48 object-cover border-2 border-white mb-4"
                 />
                 <p className="mb-4">
-                  The overview of this system is to allow managers to make an ensured attendance for each day. Features include; exporting data,adding notes to each player, added graph for better visualization and many more.
+                  The overview of this system is to allow managers to make an ensured attendance for each day. Features include; exporting data, adding notes to each player, added graph for better visualization and many more.
                 </p>
                 <div className="mb-4">
                   <span className="text-blue-400 font-bold">STACK:</span>
@@ -339,7 +343,7 @@ Willing to learn and adapt to new technologies and frameworks as needed.
                   <a
                     rel="noopener noreferrer"
                     target="_blank"
-                    href="https://ballers-attendance.vercel.app/"
+                    href="https://ballers-attendance.vercel.app"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center gap-2"
                     
                   >
@@ -401,12 +405,12 @@ Willing to learn and adapt to new technologies and frameworks as needed.
           </a>
         </div>
       </div>
-<!-- 
+
       <div className="mt-8 text-center">
         <p className="text-blue-400 font-bold">
-          $ echo "Let's build something amazing together."
+          $ echo "Lets build your ideas into a reality."
         </p>
-      </div> -->
+      </div> 
     </div>
   </div>
 </section>
