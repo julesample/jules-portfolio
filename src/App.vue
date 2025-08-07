@@ -335,8 +335,8 @@ Key features include real-time chat, post editing, account blocking, image posti
                   className="w-full h-48 object-cover border-2 border-white mb-4"
                 />
                 <p className="mb-4">
-                       An AI math solver bot with step by step explanation. Features include image upload to 
-                       analyze math problems
+                      An AI-powered tool designed to make mathematics more accessible. 
+                     Simply upload an image of a handwritten or printed math problem, or type it out directly, and our app will provide a detailed, step-by-step solution.
                 </p>
                 <div className="mb-4">
                   <span className="text-blue-400 font-bold">STACK:</span>
