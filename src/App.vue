@@ -8,6 +8,8 @@ import qr from './assets/qr.png'
 import clientIndex from './assets/client-index.jpg'
 import construction from './assets/construction.png'
 import pagsanghanBallers from './assets/pagsanghan_ballers.png'
+import math from './assets/math.png'
+
 </script>
 
 <template>
@@ -324,26 +326,27 @@ Key features include real-time chat, post editing, account blocking, image posti
 
              <div className="border-2 border-white">
               <div className="border-b-2 border-white p-4 bg-blue-400 text-black">
-                <h3 className="text-xl font-bold">PAGSANGHAN BALLERS</h3>
+                <h3 className="text-xl font-bold">Math Solver Vision</h3>
               </div>
               <div className="p-6">
                 <img
-                  :src="pagsanghanBallers"
-                  alt="CLI Tool Terminal"
+                  :src="math"
+                  alt="Math Solver Vision"
                   className="w-full h-48 object-cover border-2 border-white mb-4"
                 />
                 <p className="mb-4">
-                  The overview of this system is to allow managers to make an ensured attendance for each day. Features include; exporting data, adding notes to each player, added graph for better visualization and many more.
+                       An AI math solver bot with step by step explanation. Features include image upload to 
+                       analyze math problems
                 </p>
                 <div className="mb-4">
                   <span className="text-blue-400 font-bold">STACK:</span>
-                  <code className="ml-2"> Nextjs and Supabase.</code>
+                  <code className="ml-2"> React, Gemini AI and Tailwind</code>
                 </div>
                 <div className="flex gap-4">
                   <a
                     rel="noopener noreferrer"
                     target="_blank"
-                    href="https://ballers-attendance.vercel.app"
+                    href="https://math-vision.vercel.app"
                     className="border-2 border-white px-3 py-1 hover:bg-white hover:text-black flex items-center gap-2"
                     
                   >
