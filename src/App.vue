@@ -163,7 +163,7 @@ Willing to learn and adapt to new technologies and frameworks as needed.
                 </p>
                 <div className="mb-4">
                   <span className="text-blue-400 font-bold">STACK:</span>
-                  <code className="ml-2"> Vuejs, Nodejs and Supabase.</code>
+                  <code className="ml-2"> React, Nodejs and Supabase.</code>
                 </div>
                 <div className="flex gap-4">
                   <a
