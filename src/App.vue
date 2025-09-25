@@ -18,7 +18,7 @@ import math from './assets/math.png'
         <div className="max-w-6xl mx-auto">
           <div className="border-2 border-white p-3 md:p-4 mb-4">
             <h1 className="text-2xl md:text-4xl font-bold mb-2">Jules Eliot Lozada</h1>
-            <p className="text-base md:text-xl text-blue-400">ASPIRING SOFTWARE DEVELOPER / FULL-STACK ENTHUSIAST</p>
+            <p className="text-base md:text-xl text-blue-400">WEB DEVELOPER</p>
           </div>
           <nav className="flex flex-col sm:flex-row gap-3 md:gap-6">
             <a
@@ -163,7 +163,7 @@ Willing to learn and adapt to new technologies and frameworks as needed.
                 </p>
                 <div className="mb-4">
                   <span className="text-blue-400 font-bold">STACK:</span>
-                  <code className="ml-2"> React, Nodejs and Supabase.</code>
+                  <code className="ml-2"> React, GEMINI AI, Nodejs and Supabase.</code>
                 </div>
                 <div className="flex gap-4">
                   <a
@@ -340,7 +340,7 @@ Key features include real-time chat, post editing, account blocking, image posti
                 </p>
                 <div className="mb-4">
                   <span className="text-blue-400 font-bold">STACK:</span>
-                  <code className="ml-2"> React, Gemini AI and Tailwind</code>
+                  <code className="ml-2"> React, GEMINI AI and Tailwind</code>
                 </div>
                 <div className="flex gap-4">
                   <a
@@ -420,7 +420,7 @@ Key features include real-time chat, post editing, account blocking, image posti
 
 
       <footer className="border-t-4 border-blue-400 p-6 text-center">
-        <p className="text-blue-400">© 2025 Jules | ASPIRING DEVELOPER </p>
+        <p className="text-blue-400">© 2025 Jules | WEB DEVELOPER </p>
       </footer>
     </div>
 </template>
