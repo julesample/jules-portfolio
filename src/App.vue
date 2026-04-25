@@ -95,9 +95,6 @@ Willing to learn and adapt to new technologies and frameworks as needed.
               <div className="mb-6">
                 <h4 className="font-bold">B.S. INFORMATION TECHNOLOGY</h4>
                 <p className="text-blue-400">Samar State University | 2024</p>
-                <p className="text-sm mt-2">
-                  Graduated with focus on software development, database management, and web technologies.
-                </p>
               </div>
 
               <div className="mb-6">
